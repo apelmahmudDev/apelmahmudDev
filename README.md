@@ -2,7 +2,7 @@
 
 ### I'm a 😍 JavaScript Lover 😍!
 - 🚀 I’m currently learning everything 🤣
-- 🥅 2021 Goals: MERN
+- 🥅 2022 Goals: MERN
 - ⚡ Fun fact: I love coding in my leisure time
 
 ### Connect with me:
