@@ -1,4 +1,4 @@
-### Hi there, I'm Apel Mahmud -  [Apel Mahmud](https://apelmahmud.vercel.app/) 👋
+### Hi👋, I'm a Front End Web Developer from Bangladesh.
 
 ### I'm a 😍 JavaScript Lover 😍!
 - 🚀 I’m currently learning everything 🤣
