@@ -4,10 +4,7 @@
 
 ### Numbers
 
-![apelmahmud's Stats](https://github-readme-stats.vercel.app/api?username=apelmahmudDev&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![apelmahmud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=apelmahmudDev&theme=darcula&hide_border=true)
-
+![apelmahmud's Stats](https://github-readme-stats.vercel.app/api?username=apelmahmudDev&theme=darcula&show_icons=true&hide_border=true&count_private=true) ![apelmahmud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=apelmahmudDev&theme=darcula&hide_border=true)
 ![apelmahmud's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apelmahmudDev&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Connect with me:
