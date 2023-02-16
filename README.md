@@ -10,7 +10,7 @@ I am a **Front End developer**. I love to create pretty and well-functioning pro
 
 #### Bio:
 
-- :office: I'm currently working at GridStacks
+- :office: I'm currently working at Techvillage
 - :+1: I'm used to Javascript
 - :heart_eyes: I'm keeping an eye on most web technologies to learn
 
