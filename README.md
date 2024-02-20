@@ -10,12 +10,15 @@
 
 🎨 As a Frontend Developer, I have a passion for crafting visually stunning and seamlessly functioning products that deliver exceptional user experiences. Leveraging the vast JavaScript ecosystem, I enjoy bringing ideas to life with elegance and precision. I am enthusiastic about pursuing opportunities in Frontend web development, utilizing my favorite technologies to create engaging and innovative solutions.
 
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apelmahmudDev&layout=compact&theme=transparent&card_width=420)
+
 ## Bio
 - 💼 Currently employed at Techvillage, a software company
 - 👍 Proficient in JavaScript
 - 😍 Keenly observing and learning about various web technologies
 - 🌱 Always exploring and experimenting with coding projects
-- 💬 Let's connect and discuss web development!
 
 ## Contact
 - 📞 Phone: +88 01739801364
