@@ -73,9 +73,10 @@ Currently, I'm expanding my expertise in backend development with **Node.js**, *
 
 ## Connect
 
-**LinkedIn:** https://linkedin.com/in/apelmahmudDev
-**Website:** https://apelmahmud.vercel.app/
+**LinkedIn:** https://linkedin.com/in/apelmahmudDev<br>
+**Website:** https://apelmahmud.vercel.app/<br>
 **Email:** apelmahmud.dev@gmail.com
+
 ---
 
 <div align="center">
