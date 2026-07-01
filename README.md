@@ -23,16 +23,16 @@ Currently, I'm expanding my expertise in backend development with **Node.js**, *
 
 ## Core Competencies
 
-| **Area of Expertise** | **Key Skills & Technologies** |
-|------------------------|-------------------------------|
-| **Frontend Development** | React · Next.js · TypeScript · Responsive Design · Reusable Components |
-| **Application Architecture** | Component-Based Design · State Management · Scalable Frontend Architecture |
-| **API & Data Handling** | REST APIs · Redux Toolkit · TanStack Query · Data Fetching & Caching |
-| **Backend Development** | Node.js · Express · Hono · Authentication · API Design |
-| **Database Engineering** | PostgreSQL · Prisma ORM · Drizzle ORM · Relational Data Modeling |
-| **Performance & Accessibility** | Performance Optimization · Code Splitting · Lazy Loading · WCAG Compliance |
-| **Engineering Practices** | Clean Code · Git · Agile Development · Code Reviews · Team Collaboration |
-| **Professional Growth** | Full-Stack Development · System Design · Continuous Learning |
+| **Expertise** | **What I Deliver** |
+|---------------|--------------------|
+| **User Experience** | Responsive, accessible, and intuitive web interfaces |
+| **Scalable Frontends** | Modular architecture and reusable component libraries |
+| **Data-Driven Applications** | Efficient state management and API-driven experiences |
+| **Performance** | Fast load times, optimized rendering, and smooth interactions |
+| **Software Quality** | Clean, maintainable, and well-tested codebases |
+| **Collaboration** | Agile workflows, code reviews, and effective team communication |
+| **Problem Solving** | Turning complex requirements into practical, scalable solutions |
+| **Continuous Learning** | Exploring modern technologies and engineering best practices |
 
 ## Tech Stack
 
