@@ -1,23 +1,17 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47hp1renlgjsrst74qdkf9gtk1a66h25wusm26x9as&rid=giphy.gif&ct=s" width="200" alt="Developer Coding" />
 
-# Hi, I'm Mahmud 👋
+## Hi, I'm Apel Mahmud
 
 ### Software Developer | JavaScript • TypeScript • React • Next.js
 
 Building scalable, user-focused, and high-performance web applications with modern JavaScript technologies.
 
-<p>
-  <a href="mailto:apelmahmud.dev@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/apelmahmudDev/">LinkedIn</a> •
-  <a href="https://web.facebook.com/apelmahmudDev/">Facebook</a>
-</p>
-
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm a **Software Developer** with **4 years of professional experience** building modern web applications. My primary focus is creating scalable, maintainable, and user-centric products using JavaScript and TypeScript technologies.
 
@@ -27,20 +21,20 @@ Currently, I'm expanding my expertise in backend development with **Node.js**, *
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
-| **Frontend Development**            | **Software Engineering**                  |
-| :---------------------------------- | :---------------------------------------- |
-| ⚛️ React & Next.js Development      | 🏗️ Scalable Application Architecture      |
-| 🎨 Responsive & Mobile-First UI     | 🧹 Clean, Maintainable Code               |
-| 🧩 Component-Based Architecture     | 🔗 REST API Integration                   |
-| 🔄 State Management (Redux Toolkit) | ⚡ Performance Optimization               |
-| 📡 Server State (TanStack Query)    | 🔐 Authentication & Authorization         |
-| 🌐 Cross-Browser Compatibility      | 🗄️ Database Integration                   |
-| ♿ Accessibility (WCAG)             | 🤝 Agile & Cross-Functional Collaboration |
-| 📱 Responsive Web Design            | 🚀 Software Development Best Practices    |
+| **Area of Expertise** | **Key Skills & Technologies** |
+|------------------------|-------------------------------|
+| **Frontend Development** | React · Next.js · TypeScript · Responsive Design · Reusable Components |
+| **Application Architecture** | Component-Based Design · State Management · Scalable Frontend Architecture |
+| **API & Data Handling** | REST APIs · Redux Toolkit · TanStack Query · Data Fetching & Caching |
+| **Backend Development** | Node.js · Express · Hono · Authentication · API Design |
+| **Database Engineering** | PostgreSQL · Prisma ORM · Drizzle ORM · Relational Data Modeling |
+| **Performance & Accessibility** | Performance Optimization · Code Splitting · Lazy Loading · WCAG Compliance |
+| **Engineering Practices** | Clean Code · Git · Agile Development · Code Reviews · Team Collaboration |
+| **Professional Growth** | Full-Stack Development · System Design · Continuous Learning |
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -71,20 +65,17 @@ Currently, I'm expanding my expertise in backend development with **Node.js**, *
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apelmahmudDev&theme=github_dark" alt="Profile Details"/>
-</p>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apelmahmudDev&theme=github_dark" alt="Profile details"/>
 
 ---
 
-# 📬 Contact
+# Connect
 
-- 📧 **Email:** **apelmahmud.dev@gmail.com**
-- 💼 **LinkedIn:** https://linkedin.com/in/apelmahmudDev
-- 📍 **Location:** Dhaka, Bangladesh
-
+- **LinkedIn:** https://linkedin.com/in/apelmahmudDev
+- **Website:** https://apelmahmud.vercel.app/
+- **Email:** apelmahmud.dev@gmail.com
 ---
 
 <div align="center">
