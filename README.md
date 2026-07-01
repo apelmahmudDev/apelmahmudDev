@@ -63,7 +63,11 @@ Currently, I'm expanding my expertise in backend development with **Node.js**, *
 
 ## GitHub Statistics
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apelmahmudDev&theme=github_dark" alt="Profile details"/>
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apelmahmudDev&theme=github_dark&v=2"
+  alt="Profile Details"
+/>
 
 ---
 
