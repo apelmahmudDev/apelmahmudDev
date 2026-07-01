@@ -11,7 +11,7 @@ Building scalable, user-focused, and high-performance web applications with mode
 
 ---
 
-# About Me
+## About Me
 
 I'm a **Software Developer** with **4 years of professional experience** building modern web applications. My primary focus is creating scalable, maintainable, and user-centric products using JavaScript and TypeScript technologies.
 
@@ -34,7 +34,7 @@ Currently, I'm expanding my expertise in backend development with **Node.js**, *
 | **Engineering Practices** | Clean Code · Git · Agile Development · Code Reviews · Team Collaboration |
 | **Professional Growth** | Full-Stack Development · System Design · Continuous Learning |
 
-# Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -71,7 +71,7 @@ Currently, I'm expanding my expertise in backend development with **Node.js**, *
 
 ---
 
-# Connect
+## Connect
 
 - **LinkedIn:** https://linkedin.com/in/apelmahmudDev
 - **Website:** https://apelmahmud.vercel.app/
