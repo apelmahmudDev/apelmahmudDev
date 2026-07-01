@@ -1,32 +1,96 @@
-<h1> Hi👋, I'm a frontend web developer from Bangladesh.</h1>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white&style=for-the-badge) ![Next JS ](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge) ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=for-the-badge) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
-
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47hp1renlgjsrst74qdkf9gtk1a66h25wusm26x9as&rid=giphy.gif&ct=s" width="200"/ alt="developer">
+  <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47hp1renlgjsrst74qdkf9gtk1a66h25wusm26x9as&rid=giphy.gif&ct=s" width="200" alt="Developer Coding" />
+
+# Hi, I'm Mahmud 👋
+
+### Software Developer | JavaScript • TypeScript • React • Next.js
+
+Building scalable, user-focused, and high-performance web applications with modern JavaScript technologies.
+
+<p>
+  <a href="mailto:apelmahmud.dev@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/apelmahmudDev/">LinkedIn</a> •
+  <a href="https://web.facebook.com/apelmahmudDev/">Facebook</a>
+</p>
+
 </div>
 
 ---
 
-🎨 As a Frontend Developer, I have a passion for crafting visually stunning and seamlessly functioning products that deliver exceptional user experiences. Leveraging the vast JavaScript ecosystem, I enjoy bringing ideas to life with elegance and precision. I am enthusiastic about pursuing opportunities in Frontend web development, utilizing my favorite technologies to create engaging and innovative solutions.
+# 👨‍💻 About Me
 
-## Stats
+I'm a **Software Developer** with **4 years of professional experience** building modern web applications. My primary focus is creating scalable, maintainable, and user-centric products using JavaScript and TypeScript technologies.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apelmahmudDev&layout=compact&theme=transparent&card_width=420)
+I enjoy solving real-world problems, improving application performance, designing reusable components, and collaborating with cross-functional teams to deliver high-quality software.
 
-## Bio
-- 💼 Currently employed at Acuity HCM, a software company
-- 👍 Proficient in JavaScript
-- 😍 Keenly observing and learning about various web technologies
-- 🌱 Always exploring and experimenting with coding projects
+Currently, I'm expanding my expertise in backend development with **Node.js**, **Express**, **Hono**, **Prisma**, **Drizzle ORM**, and **PostgreSQL**.
 
-## Contact
-- 📞 Phone: +88 01739801364
-- 📧 Email: [apelmahmud.dev@gmail.com](mailto:apelmahmud.dev@gmail.com)
-- 📍 Location: Dhaka, Bangladesh
+---
 
-## Let's Connect!
+## 🎯 Core Competencies
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://web.facebook.com/apelmahmudDev/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/apelmahmuddev/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/01739801364)
+| **Frontend Development**            | **Software Engineering**                  |
+| :---------------------------------- | :---------------------------------------- |
+| ⚛️ React & Next.js Development      | 🏗️ Scalable Application Architecture      |
+| 🎨 Responsive & Mobile-First UI     | 🧹 Clean, Maintainable Code               |
+| 🧩 Component-Based Architecture     | 🔗 REST API Integration                   |
+| 🔄 State Management (Redux Toolkit) | ⚡ Performance Optimization               |
+| 📡 Server State (TanStack Query)    | 🔐 Authentication & Authorization         |
+| 🌐 Cross-Browser Compatibility      | 🗄️ Database Integration                   |
+| ♿ Accessibility (WCAG)             | 🤝 Agile & Cross-Functional Collaboration |
+| 📱 Responsive Web Design            | 🚀 Software Development Best Practices    |
 
-Feel free to reach out to discuss exciting projects, collaborations, or just to say hi! 😊
+# 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apelmahmudDev&theme=github_dark" alt="Profile Details"/>
+</p>
+
+---
+
+# 📬 Contact
+
+- 📧 **Email:** **apelmahmud.dev@gmail.com**
+- 💼 **LinkedIn:** https://linkedin.com/in/apelmahmudDev
+- 📍 **Location:** Dhaka, Bangladesh
+
+---
+
+<div align="center">
+
+### Open to Software Development opportunities worldwide 🌍
+
+_"Building software that is clean, scalable, and impactful."_
+
+</div>
