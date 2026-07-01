@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apelmahmudDev&layout=compact&theme=transparent&card_width=420)
 
 ## Bio
-- 💼 Currently employed at Techvillage, a software company
+- 💼 Currently employed at Acuity HCM, a software company
 - 👍 Proficient in JavaScript
 - 😍 Keenly observing and learning about various web technologies
 - 🌱 Always exploring and experimenting with coding projects
